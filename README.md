@@ -7,7 +7,7 @@ Based on the paper **Knee Injury Detection using MRI with Efficiently-Layered Ne
 Links: [Paper](https://arxiv.org/abs/2005.02706) / [5-min Video Presentation](https://www.youtube.com/watch?v=ucWYdEJ545k) / [Teaser](https://www.youtube.com/watch?v=8nO-E_2aNcE)
 
 ## Network Architecture
-<img src='https://raw.githubusercontent.com/mxtsai/ELNet/master/ELNet_Diagram.png' align="right" width=320>
+<img src='https://raw.githubusercontent.com/mxtsai/ELNet/master/ELNet_Diagram.png' align="right" width=500>
 
 The three main components of ELNet are:
   1. Block Modules 
