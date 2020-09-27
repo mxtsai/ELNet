@@ -13,7 +13,7 @@ The three main components of ELNet are:
   2. Multi-Slice Normalization *(in green)*
   3. BlurPool operations *(in yellow)*
   
-The details behind each of these components are discussed in the paper.
+Block Modules are designed to introduce more non-linearities in the network, and they may be repeated while ensuring equal input and output dimension. Multi-Slice normalization allows for slice-independent normalization of the feature representations in the network. BlurPool downsampling ensures anti-aliased represenations during pooling operations. Please check the paper for more details.
 
 ### Input Dimesion
 ELNet takes in a 3D input image of dimension `1 x S x H x W` where `S` is the number of slices of the image, and `H,W` are the spatial height and width of the image. (In the paper, `H,W = 256` and `S` varies between cases to case)
