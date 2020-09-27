@@ -9,4 +9,7 @@ Links: [Paper](https://arxiv.org/abs/2005.02706) / [5-min Video Presentation](ht
 ## Network Architecture
 <img src='https://raw.githubusercontent.com/mxtsai/ELNet/master/ELNet_architecture.png' align="right" width=320>
 
-The three main components of the ELNet architecture are the (1)Block Modules (2)Multi-Slice Normalization and (3)BlurPool operations.
+The three main components of the ELNet are:
+  1. Block Modules 
+  2. Multi-Slice Normalization
+  3. BlurPool operations.
