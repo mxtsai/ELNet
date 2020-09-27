@@ -1,8 +1,7 @@
 # Implementation of Efficiently Layered Network (ELNet) 
 
-Implementation by [Maxwell Tsai](https://mxtsai.github.io/)
 
-Paper: **Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)**,  [MIDL 2020](https://2020.midl.io/)
+Implmentation of ELNet in **Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)** by [Maxwell Tsai](https://mxtsai.github.io/)
 
 [Paper Link](https://arxiv.org/abs/2005.02706) / [5-min Video Presentation](https://www.youtube.com/watch?v=ucWYdEJ545k) / [Teaser](https://www.youtube.com/watch?v=8nO-E_2aNcE)
 
