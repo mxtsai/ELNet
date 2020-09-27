@@ -1,7 +1,9 @@
 # Implementation of Efficiently Layered Network (ELNet) 
 
 
-Implementation of ELNet in *Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)* by [Maxwell Tsai](https://mxtsai.github.io/)
+Based on *Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)* by [Maxwell Tsai](https://mxtsai.github.io/)
+
+Please see `model_elnet.py` for the PyTorch implementation of ELNet.
 
 [Paper Link](https://arxiv.org/abs/2005.02706) / [5-min Video Presentation](https://www.youtube.com/watch?v=ucWYdEJ545k) / [Teaser](https://www.youtube.com/watch?v=8nO-E_2aNcE)
 
