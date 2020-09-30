@@ -48,6 +48,5 @@ If you find this useful, you are welcome to cite our work using:
 	volume = {121}, 
 	series = {Proceedings of Machine Learning Research}, 
 	publisher = {PMLR}, 
-	url = {http://proceedings.mlr.press/v121/tsai20a.html} 
 }
 ```
