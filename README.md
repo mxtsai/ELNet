@@ -34,6 +34,8 @@ ELNet takes in a 3D input image of dimension `1 x S x H x W` where `S` is the nu
 
 * `seed` - The random seed for deterministic results (useful for debugging).
 
+* `dropout` - The amount of dropout to apply during training.
+
 ## Questions & Citation
 
 Feel free to contact me if there are any questions or comments regarding the paper or the implementation. 
