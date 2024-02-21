@@ -167,6 +167,7 @@ class ELNet(nn.Module):
         self.weight_init_type = kwargs.get('weight_init_type', 'normal')  # type of weight initialization
         self.seed = kwargs.get('seed', 2)  # default seed for initialization
         self.num_classes = kwargs.get('num_classes', 2)  # number of classes for ELNet
+	self.feature_dropout = kwargs.get('dropout', 0.0)
 
         make_deterministic(self.seed)
 
